@@ -32,7 +32,7 @@ proxies = {
 Image.MAX_IMAGE_PIXELS = None  # 禁用解压缩炸弹限制
 ImageFile.LOAD_TRUNCATED_IMAGES = True  # 损坏的图片
 
-url = "https://baozimh.org/chapterlist/wufashengjidewanjia-taeaparrotkimgavingereddogculturehouse"
+url = "https://cn.baozimh.com/comic/danjianguangzhaoshanghaofudaitianshi-matoba"
 folder_temp = f"temp_{url.strip('/').split('/')[-1]}"
 folder_output = f"OutPut_{url.strip('/').split('/')[-1]}"
 
